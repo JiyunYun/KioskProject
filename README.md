@@ -37,5 +37,5 @@
 **Kiosk Project**  
 2019 hanium project
 <br /><br />
-아래의 링크에서 프로젝트 진행의 상세 과정 (이슈, Wiki 등) 확인 가능
+아래의 링크에서 프로젝트 진행의 상세 과정 (이슈, Wiki 등) 확인 가능<br />
 https://lab.hanium.or.kr/19-p421/19_p421_kioskproject
