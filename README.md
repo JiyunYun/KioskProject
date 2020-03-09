@@ -33,3 +33,4 @@
 **Kiosk Project**  
 2019 hanium project  
 https://lab.hanium.or.kr/19-p421/19_p421_kioskproject
+자세한 프로젝트 진행 상황 (이슈, Wiki 등) 
