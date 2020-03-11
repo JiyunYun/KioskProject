@@ -40,10 +40,10 @@
 
 ---
 
-### 참고
+### 참고 (해당 링크에서 확인 가능)
 
-**Kiosk Project**  
-2019 hanium project
-<br /><br />
-아래의 링크에서 프로젝트 진행의 상세 과정 (이슈, Wiki 등) 확인 가능<br />
+* 프로젝트 진행 상세 과정 (의사소통, 이슈, Wiki 등)<br />
 https://lab.hanium.or.kr/19-p421/19_p421_kioskproject
+
+* 시연 영상
+https://drive.google.com/open?id=1Dj6keWZSxKzm4vbMnDNU92pWmiHxnJiX
