@@ -45,5 +45,5 @@
 * 프로젝트 진행 상세 과정 (의사소통, 이슈, Wiki 등)<br />
 https://lab.hanium.or.kr/19-p421/19_p421_kioskproject
 
-* 시연 영상
+* 시연 영상<br />
 https://drive.google.com/open?id=1Dj6keWZSxKzm4vbMnDNU92pWmiHxnJiX
